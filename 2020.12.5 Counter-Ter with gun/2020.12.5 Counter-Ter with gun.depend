@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1607250406 source:d:\codes\2020.12.5 counter-ter with gun\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
